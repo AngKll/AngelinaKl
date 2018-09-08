@@ -3,8 +3,6 @@ body{
     height: 700px;
     position: relative;
     margin:auto;
-    border-style: dotted;
-    border-spacing: 20px;
     }
 #header{
     width:100%;
