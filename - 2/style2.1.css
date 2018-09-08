@@ -1,0 +1,18 @@
+ table{
+    width: 90%;
+    height: 700px;
+    position: relative;
+    margin:auto;
+    border-style: none;
+    border-spacing: 12px;
+    }
+td{
+    border-style: hidden;
+    background-color: plum;
+       
+}
+th{
+    background-color: darkmagenta;
+}
+
+ 
