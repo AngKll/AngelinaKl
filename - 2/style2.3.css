@@ -1,0 +1,39 @@
+header{
+    width: 90%;
+    height: 110px;/*не хочет работать в %*/
+    float: right;
+    background-color: crimson;
+    border-radius:  0 0 10px 10px;
+}
+#navigation{
+    width: 10%;
+    height: 100%;
+    right: 90%;
+    top: 0%;
+    position: fixed;
+    background-color:salmon ;
+}
+a{
+    border-style: solid;
+    border-radius: 25px;  
+    position: relative;
+    font-family:'Courier New', Courier, monospace;
+}
+#content{
+    width: 90%;
+    height:90%;
+    left: 0;
+    float: right;
+    background-color: lightgoldenrodyellow;
+}
+p,h1, h3{
+    text-indent: 1.5em;
+}
+
+footer{
+    width: 90%;
+    height: 110px;
+    background-color: crimson;
+    border-radius:  10px 10px 0 0;
+    float: right;
+}
